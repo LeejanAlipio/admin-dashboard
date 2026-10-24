@@ -1,11 +1,13 @@
 # Admin Dashboard
-The last project of [Intermediate HTML and CSS](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard). 
+A complex dashboard page using grid and flex
 
-# Project Overview
+## Project Overview
 ![Project Image](images/project-image.png)
 
-# What I've Learned and Improved on
+## Live
+[Live](https://leejanalipio.github.io/admin-dashboard/)
+
+## What I've Learned and Improved on
 - I can now analyze wheter a container needs to be `Flex` or `Grid`
 - Became more familiar with using `Grid` and its properties 
 - A little bit of transform
-
